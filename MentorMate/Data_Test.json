@@ -1,0 +1,5 @@
+[{"name": "John Smith","totalSales": 250,"salesPeriod": 10,"experienceMultiplier": 0.5},
+{"name": "David Prowless","totalSales": 500,"salesPeriod": 10,"experienceMultiplier": 0.5},
+{"name": "Will Smith","totalSales": 500,"salesPeriod": 10,"experienceMultiplier": 0.5},
+{"name": "Void","totalSales": 700,"salesPeriod": 12,"experienceMultiplier": 0.5}
+]
